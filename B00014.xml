@@ -1,0 +1,247 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Articles to be enquired of within the dioces of Norwiche, in the metropoliticall visitation of the moste reuerend father in God, Matthew, by the prouidence of God, archebyshop of Canterbury, primate of all Englande, and metropolitane, in the yeare of our lord God, M.D.LXVII.</title>
+            <author>Church of England. Province of Canterbury. Archbishop (1559-1575 : Parker)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1567</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B00014</idno>
+            <idno type="STC">STC 10288</idno>
+            <idno type="STC">ESTC S92399</idno>
+            <idno type="EEBO-CITATION">52633222</idno>
+            <idno type="OCLC">ocm 52633222</idno>
+            <idno type="VID">174025</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B00014)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174025)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2114:39)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Articles to be enquired of within the dioces of Norwiche, in the metropoliticall visitation of the moste reuerend father in God, Matthew, by the prouidence of God, archebyshop of Canterbury, primate of all Englande, and metropolitane, in the yeare of our lord God, M.D.LXVII.</title>
+                  <author>Church of England. Province of Canterbury. Archbishop (1559-1575 : Parker)</author>
+                  <author>Parker, Matthew, 1504-1575.</author>
+                  <author>Church of England. Diocese of Norwich.</author>
+               </titleStmt>
+               <extent>[12] p.   </extent>
+               <publicationStmt>
+                  <publisher>by Reginalde Wolfe.,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>Anno Domini M. D.LXVII [1567].</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title vignette flanked by initials "M - C" (Matthew Canterbury); tailpiece.</note>
+                  <note>Signatures: A⁶.</note>
+                  <note>Imperfect: cropped, stained, marked, and with print show-through.</note>
+                  <note>Reproduction of original in: Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Pastoral letters and charges --  Early works to 1800.</term>
+               <term>Visitations, Ecclesiastical --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:174025:1"/>
+            <!-- PDF PAGE 25 -->
+            <pb facs="tcp:174025:1"/>
+            <!-- PDF PAGE 25 -->
+            <p>
+               <hi>ARTICLES to be enquired of within the</hi> Dioces of Norwiche, in the Me<g ref="char:EOLhyphen"/>tropoliticall viſitation of the moſte Reuerend father in God, <hi>MATTHEW,</hi> by the prouidence of God, Arche<g ref="char:EOLhyphen"/>byſhop of Canterbury, Primate of all Englande, and Me<g ref="char:EOLhyphen"/>tropolitane,</p>
+            <p>In the yeare of our Lorde GOD, M.D.LXVII.</p>
+            <p>❀</p>
+            <figure>
+               <head>M. C.</head>
+               <figDesc>insignia of the Master of the (Stationers') Company</figDesc>
+            </figure>
+            <p>Imprinted at London by Reginalde Wolfe. <hi>Anno Domini</hi> M.D.LXVII.</p>
+         </div>
+         <div type="instructions_for_commissioners">
+            <pb facs="tcp:174025:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 26 -->
+            <div type="part">
+               <head>Inſtructions to the Commſſi<g ref="char:EOLhyphen"/>oners for the dioces of Norwiche.</head>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="1"/> FIrſte, that you doe with all diligence trauell to re<g ref="char:EOLhyphen"/>duce the ſtate of the clergye vnto one vniforme or<g ref="char:EOLhyphen"/>der in their miniſtration and preaching: and that w<hi rend="sup">t</hi> out any parciall reſpect you will put in dew execution the Queenes maieſties Eccleſiaſticall lawes, Statutes, In<g ref="char:EOLhyphen"/>iunctions, and her highnes other commandements gyuen and publiſhed in that behalf.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="2"/> Item, y<hi rend="sup">t</hi> in all places in your cyrcuite, you giue in charge not only vnto the curates and miniſters, but alſo vnto the Churchwardens of euery church &amp; chappell, that they do not admitte and ſuffer anye perſon to preache or miniſter in their ſeuerall church or chappell, before they ſhall firſt ſee their ſeuerall licences vnder ſeale in due forme, vnder the payne that may follow thereof.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="3"/> Item, you ſhall take diligent heede, that no fees but due &amp; of old accuſtomed, be exacted or taken of any of y<hi rend="sup">e</hi> people by any regiſtrer, clerke, ſomner, or anye other youre mini<g ref="char:EOLhyphen"/>ſters or attendantes.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="4"/> Item, for the better certainty &amp; knowledge of all duties and fees vnto ſuche as ſhuld pay the ſame, you ſhall note the certaine ſome thereof with one of your handes at the leaſte in ſome parte of euery Inſtrument or writinge that ſhall paſſe your ſeale or graunt.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="5"/> Item, that you foreſee y<hi rend="sup">t</hi> no greater price be taken for the Articles which you ſhall inquire of, together bound with y<hi rend="sup">e</hi> Aduertiſements then iiij.d. &amp; for y<hi rend="sup">e</hi> table of y<hi rend="sup">e</hi> degrees ij.d.</p>
+               <p>
+                  <milestone type="tcpmilestone" unit="unspecified" n="6"/> Item, when you haue fyniſhed your viſitation &amp; cyrcuite, (the charges of your vyage being borne and diſcharged) if any part of the dew procurations by you receaued of the clergy, do remaine vnſpent, all the ſame you ſhal diſtribute to the moſte poore and needye of the clergye that bee reſi<g ref="char:EOLhyphen"/>dents, and keepe hoſpitalitye vpon theire benefices in the ſayde dioces.</p>
+            </div>
+            <closer>God ſaue the Queene.</closer>
+         </div>
+      </front>
+      <body>
+         <div type="articles_of_visitation">
+            <pb facs="tcp:174025:2"/>
+            <!-- PDF PAGE 26 -->
+            <head>Articles to be inquired of.</head>
+            <p>
+               <seg rend="decorInit">I</seg>N primis, whether Diuine ſeruice <milestone type="tcpmilestone" unit="unspecified" n="1"/> be ſayde or ſonge by youre Miniſter or Miniſters in your ſeuerall Churches, duelye and reuerently, as it is ſet forth by the lawes of this realme, with out any kinde of variation. And whether the holy Sa<g ref="char:EOLhyphen"/>cramentes be likewiſe miniſtred reuerently, in ſuch manner as by the lawes of this Realme and by the Quenes Maieſties iniunctions, and by thaduertiſ<g ref="char:EOLhyphen"/>ments ſet forthe by publike authority, is appointed and preſcribed.</p>
+            <p>Item, whether you haue in youre paryſhe chur<g ref="char:EOLhyphen"/>ches <milestone type="tcpmilestone" unit="unspecified" n="2"/> all things neceſſary &amp; requiſite for Common prayer and adminiſtration of the Sacraments, ſpe<g ref="char:EOLunhyphen"/>cially the booke of Common prayer, the Bible in y<hi rend="sup">e</hi> largeſt volume, the Homilyes, with the Paraphra<g ref="char:EOLhyphen"/>ſes of Eraſmus: A conuenient Pulpit wel placed: A comly and decent table for the holy Communion, co<g ref="char:EOLunhyphen"/>uered decently, &amp; ſet in place preſcribed by y<hi rend="sup">e</hi> Quenes maieſties Iniunctions. The Cheſt or boxe for the poore men, and al other things neceſſary in and to the premiſſes. And whether your Aulters bee taken downe, accordinge to the commaundemente in that behalfe geuen.</p>
+            <p>Item, whether youre Preſtes, Curates, or mini<g ref="char:EOLhyphen"/>ſters <milestone type="tcpmilestone" unit="unspecified" n="3"/> do vſe in the time of the celebracion of diuine ſeruice to weare a ſurples, preſcribed by y<hi rend="sup">e</hi> Quenes maieſties Iniunctions and the boke of Common
+<pb facs="tcp:174025:3"/>
+               <!-- PDF PAGE 27 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:174025:3"/>
+               <!-- PDF PAGE 27 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:174025:4"/>
+               <!-- PDF PAGE 28 -->
+prayer. And whether they do celebrate the ſame di<g ref="char:EOLhyphen"/>uine ſeruice in the chauncell or in the Churche, and do vſe all Rites and orders preſcribed in the boke of Common prayer, &amp;c. and none other.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> Item, whether your Curates or miniſters do pub<g ref="char:EOLunhyphen"/>liquely in theire open Churches reade in ma<g ref="char:cmbAbbrStroke">̄</g>ner ap<g ref="char:EOLhyphen"/>poynted, the Queenes Maieſties Iniunctions and Homelies: The aduertiſementes latelye ſette forthe by publique authoritie. And whether the ſame in all poyntes be duely obſerued.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="5"/> Item, whether youre Curates or miniſters or a<g ref="char:EOLhyphen"/>ny of them doe vſe to miniſter the Sacramente of Baptiſme in baſons, or els in the Fonte ſtanding in the place accuſtomed. And whether the ſame fonte be decently kepte. ¶And whether they do vſe to miniſter the holye Communion in wafer bread ac<g ref="char:EOLhyphen"/>cording to the Queenes Maieſties Iniunctions, or els in common bread. ¶And alſo whether they do miniſter in any prophane Cuppes, Bowles, diſ<g ref="char:EOLhyphen"/>ſhes, or Chalices heretofore vſed at Maſſe, or els in a decent Communion Cuppe prouided and kept for the ſame purpoſe only. And whether the communi<g ref="char:EOLhyphen"/>cants do vſe to receyue the holy Communion ſtan<g ref="char:EOLhyphen"/>dinge, ſittinge, or els knealinge.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="6"/> Item, whether ymages and al other monuments of ydolatry and ſuperſtition be deſtroyed and abo<g ref="char:EOLhyphen"/>lyſhed in your ſeuerall pariſhes: And whether your Churches and Chauncels be well adorned and con<g ref="char:EOLunhyphen"/>ueniently kept without waſte, deſtruction, or abuſe of anye thinge. Whether the roode loſte bee pulled
+<pb facs="tcp:174025:4"/>
+               <!-- PDF PAGE 28 -->
+downe, according to the order preſcribed: and of the partition betweene the Chauncell and the Churche be kepte. Whether youre Churchyardes be well fen<g ref="char:EOLunhyphen"/>ſed and cleanly kepte. Whether anye ſale haue bene made of youre Churche goods, by whome and to whome, and what hathe been don with the monye thereof comming. Whether youre Chauncels and Parſonages be well and ſufficiently repaired: Whe<g ref="char:EOLunhyphen"/>ther any man haue pulled downe or diſcouered any Church, Chauncel, Chappel, Almes houſe, or ſuche like, or haue plucked downe y<hi rend="sup">e</hi> bells, or haue felled or ſpoyled any wood or timber in any Church yarde.</p>
+            <p>Item, whether there be any Parſons that intrude <milestone type="tcpmilestone" unit="unspecified" n="7"/> them ſelfe, and preſume to exerciſe any kinde of my<g ref="char:EOLhyphen"/>niſtery in the churche of God, without impoſition of handes &amp; ordinary aucthoritie. Whether theire Churche or Chappell be ſerued with any readers. Or whether any Miniſter do remoue from any o<g ref="char:EOLhyphen"/>ther dioceſe to ſerue in this, without letters teſti<g ref="char:EOLhyphen"/>moniall of thordinary from whome he came, to teſ<g ref="char:EOLunhyphen"/>tify the cauſe of his departinge thence, and of hys behauiour. Or any beinge once preiſt or Miniſter, that dothe not miniſter, or frequente and reſorte to the Common prayer now vſed, and at tymes ap<g ref="char:EOLhyphen"/>poynted communicate. And whether anye ſuche do goe and boaſte himſelfe lyke a lay man.</p>
+            <p>Item, whether youre Parſons and Vicars be re<g ref="char:EOLhyphen"/>ſidente <milestone type="tcpmilestone" unit="unspecified" n="8"/> continually vpon their benefices: Whether they giue themſelues to deuoute prayer, diſcreate re<g ref="char:EOLhyphen"/>ding of the Scripture, and godly contemplacion, &amp;
+<pb facs="tcp:174025:5" rendition="simple:additions"/>
+               <!-- PDF PAGE 29 -->
+releaue the poore charitably to their hability, accor<g ref="char:EOLunhyphen"/>dinge to the Queenes Iniunctions. Whether they pray for the proſperous eſtate of the Quenes Ma<g ref="char:EOLhyphen"/>ieſtye, as is preſcribed in her graces Iniunctions.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="9"/> Item, whether anye of youre miniſters dothe or hathe admitted any notoriouſe ſinner or malicious perſon out of Charitie, without iuſte penance done and reconciliatio<g ref="char:cmbAbbrStroke">̄</g> had, to receaue the holy Commu<g ref="char:EOLunhyphen"/>nion: or any that hath not receaued the ſame accor<g ref="char:EOLhyphen"/>dinge as to a Chriſtian appertayneth, and by the lawes it is appointed. And whether you do heare or knowe any y<hi rend="sup">t</hi> doth vſe to ſay or heare the priuat Maſſe, or doe vſe any other ſeruice then is preſcri<g ref="char:EOLhyphen"/>bed by the lawes of this Realme.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="10"/> Item, whether your miniſters doe call vppon fa<g ref="char:EOLhyphen"/>thers, mothers, and maiſters of youthe, to bringe them vp in the feare of almighty God, in obedie<g ref="char:cmbAbbrStroke">̄</g>ce and in conuenient occupations. Whether they bee peacemakers, and exhorte the people to obedie<g ref="char:cmbAbbrStroke">̄</g>ce to their Prince, &amp; to all other that be in authoritie, to charity and mutual loue among themſelues. Whe<g ref="char:EOLhyphen"/>ther they geue themſelues to ſuperſtition, and bee maintainers of the vnlearned people in ignorau<g ref="char:cmbAbbrStroke">̄</g>ce.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="11"/> Item, whether your Perſons, Vicars, &amp; Curates be co<g ref="char:cmbAbbrStroke">̄</g>mon gameners, hunters, haunters of tauerns or alehouſes: Suſpected of anye notable crime: Fauters of forrein poures, letters of good religion, preachers of corrupt doctrine: ſtubborne or diſobe<g ref="char:EOLhyphen"/>dient to lawes and orders. Whether they be geue<g ref="char:cmbAbbrStroke">̄</g> to filthy lucre. Whether they be light either in exaum<g ref="char:EOLhyphen"/>ple
+<pb facs="tcp:174025:5" rendition="simple:additions"/>
+               <!-- PDF PAGE 29 -->
+of life, or in vnwont and vnſemely apparrell.</p>
+            <p>Item, whether anye of your benefices be vacant,<milestone type="tcpmilestone" unit="unspecified" n="12"/> how longe they haue ben vacant: who is Patrone. Whether there be any laye or temporall men, (not beinge within orders) or children, or anye other (within age) that hathe or enioyeth ani benefice or ſpiritual promotion: any Patron that ſuffereth any benefice to be vacante, and taketh the tithes and o<g ref="char:EOLhyphen"/>ther fructes to himſelfe.</p>
+            <p>Item, whether your Miniſters keepe their regiſ<g ref="char:EOLhyphen"/>ters <milestone type="tcpmilestone" unit="unspecified" n="13"/> well, and do preſent the copy of them once eue<g ref="char:EOLhyphen"/>ry yeare by Indenture, to the Ordinary or his offi<g ref="char:EOLunhyphen"/>cers. And teache the Articles of the fayth, and the Tenne commaundementes, and the Lordes pray<g ref="char:EOLhyphen"/>er. as is preſcribed them in the Catechiſme.</p>
+            <p>Item, whether youre Parſons and Vicars haue <milestone type="tcpmilestone" unit="unspecified" n="14"/> any other or mo benefices, where &amp; in what Coun<g ref="char:EOLhyphen"/>try they bee: Whether they came by them by Sy<g ref="char:EOLhyphen"/>mony, or other vnlawful meanes. Whether they do let their benefice to farme, or els kepe them in their owne handes. Whether they keepe hoſpitalitye or not. Whether in their abſe<g ref="char:cmbAbbrStroke">̄</g>ce they leaue their cures to honeſt, learned, or expert Curates. Whether they make their ordinarye Sermons, accordinge to the Queenes maieſtes Iniunctions. Whether they ad<g ref="char:EOLunhyphen"/>mitte any to preache vnlicenſed, or put by any that hath licenſe. Whether they reade the Queenes ma<g ref="char:EOLunhyphen"/>ieſties Iniunctions as they oughte to do, and ſaye theire Seruice ſenſibly and diſtinctly.</p>
+            <p>Item, whether the laye people be diligent in com<g ref="char:EOLhyphen"/>minge <milestone type="tcpmilestone" unit="unspecified" n="15"/>
+               <pb facs="tcp:174025:6" rendition="simple:additions"/>
+               <!-- PDF PAGE 30 -->
+to the Churche on the holy dayes, and with all humblenes, reuerently and deuoutelye doe geue themſelues to the hearinge of Commune prayer in the time thereof, and otherwiſe occupy themſelues in priuate praiers, readinge of Scriptures, or other vertuouſe exerciſe. Yf anye be negligente or wilfull. Whether the forfaiture be leued on their goods to the vſe of the poore, according to the lawes of this Realm in y<hi rend="sup">e</hi> behalfe prouided. And what mony hath ben gathered by the Churchewarde<g ref="char:cmbAbbrStroke">̄</g>s of the forfets.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="19"/> Item, whether there be in your quarters any that openly or priuily vſe or freque<g ref="char:cmbAbbrStroke">̄</g>t any kinde of diuine ſeruice or common prayer, other then is ſet forth by the lawes of this Realme: and diſturbers of co<g ref="char:cmbAbbrStroke">̄</g>mon prayers, or letters of the worde of God to be reade, preached or hearde: Any that by couerte or craftye meanes depraue or contemne y<hi rend="sup">e</hi> ſame: or that ſpeake to y<hi rend="sup">e</hi> derogatio<g ref="char:cmbAbbrStroke">̄</g> of y<hi rend="sup">e</hi> Queenes maieſties aucthority &amp; power, or of y<hi rend="sup">e</hi> lawes ſet out by publike aucthority.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="20"/> Item, whether there be amonge you any blaſphe<g ref="char:EOLunhyphen"/>mers of the name of almighty God, adulterers, for nicators, baudes, or receauers of ſuch perſons. Any ſuſpected of inceſt or any other notoriouſe fault, ſin or crime. And dronkardes, ribaldes, common ſlaun<g ref="char:EOLhyphen"/>derers of their neighboures, raylers or ſcolders, ſo<g ref="char:EOLhyphen"/>wers of diſcorde betweene neighboures, by playes, rimes, famouſe libels, or otherwiſe.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="21"/> Item, whether there be in your pariſhes any In<g ref="char:EOLhyphen"/>keepers or Alewiues, that admit any reſort to their houſes in tyme of Commone prayer. Anye that
+<pb facs="tcp:174025:6" rendition="simple:additions"/>
+               <!-- PDF PAGE 30 -->
+commonlye abſente them ſelues from theyre owne Churche: or otherwiſe idely or lewdlye prophaneth the Sabbath day. Any that keepe any ſecret co<g ref="char:cmbAbbrStroke">̄</g>uen<g ref="char:EOLhyphen"/>ticles, preachings, lectures or readings, contrary to y<hi rend="sup">e</hi> lawes. Any ſuſpected of hereſy, or that maintain any erronious opinions co<g ref="char:cmbAbbrStroke">̄</g>trary to the lawes of al<g ref="char:EOLhyphen"/>mighty God and good religion, by publique autho<g ref="char:EOLhyphen"/>ritie in this Realme ſet forth.</p>
+            <p>Item, whether there be in theſe parties which mi<g ref="char:EOLunhyphen"/>niſter <milestone type="tcpmilestone" unit="unspecified" n="16"/> the goodes of thoſe whiche be deade, without authoritie: any executors y<hi rend="sup">t</hi> haue not fulfilled their te<g ref="char:EOLunhyphen"/>ſtators will, ſpecially in paying of legacies geuen to good and godly vſes, as to the releife of pouerte, to poore ſchollers, orphanes, highe waies, mariage of poore maidens, and ſuche like. Whether youre Ho<g ref="char:EOLhyphen"/>ſpitals &amp; Almes houſes be iuſtly vſed, accordinge to the foundacio<g ref="char:cmbAbbrStroke">̄</g> and auncient ordinau<g ref="char:cmbAbbrStroke">̄</g>ces of the ſame. Whether ther be any other placed in the<g ref="char:cmbAbbrStroke">̄</g> then poore impotent &amp; needy perſons, that hath not other wiſe where with or whereby to liue.</p>
+            <p>Item, whether there be any which of late haue be<g ref="char:EOLunhyphen"/>queathed <milestone type="tcpmilestone" unit="unspecified" n="17"/> in their teſtaments, or other waies ther be appointed by ordinaries, any ſu<g ref="char:cmbAbbrStroke">̄</g>mes of mony, Ie<g ref="char:EOLhyphen"/>welles Plate, Orname<g ref="char:cmbAbbrStroke">̄</g>ts, or annuities for y<hi rend="sup">e</hi> erectio<g ref="char:cmbAbbrStroke">̄</g> of any obites, diriges, trentals, or any ſuch like vſe, now by the lawes of this Realm not permitted: and if there be, that you preſent the names of ſuch execu<g ref="char:EOLunhyphen"/>tors, the quantity and quality of the guifte, that or<g ref="char:EOLhyphen"/>dre may be taken therein accordingly.</p>
+            <p>Item, whether there be any mony or ſtoke apper<g ref="char:EOLhyphen"/>taininge <milestone type="tcpmilestone" unit="unspecified" n="18"/> to anye periſhe churche, in anye mannes
+<pb facs="tcp:174025:7" rendition="simple:additions"/>
+               <!-- PDF PAGE 31 -->
+handes, that refuſe or differreth to paye the ſame: or that vſeth fraude, deceite or delaye to make anye accompte in the preſence of the Honeſtye in the pa<g ref="char:EOLhyphen"/>riſhe, for the ſame. Whether youre Churche war<g ref="char:EOLhyphen"/>dens &amp; others, afore tyme, haue gyuen the yearely accompte, accordinge vnto the cuſtome as it hath been aforetime vſed. Whether the ſtore of the poore mennes boxe be openlie and indifferentlie giuen where neede is, without parciall affection. Whether any ſtocke of cattel or graine appertaining to your churches, be decaied: by whoſe negligence, and in whoſe haddes.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="22"/> Item, whether youre ſchoolemaiſters be of a ſin<g ref="char:EOLhyphen"/>cere religion, and be diligent in teaching and brin<g ref="char:EOLhyphen"/>ging vp of youth. Whether they teache any other Gra<g ref="char:cmbAbbrStroke">̄</g>mar, then ſuche as is appointed by y<hi rend="sup">e</hi> Queenes Maieſties Iniunction annexed to the ſame, or not.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="23"/> Item, whether there be any amonge you that vſe ſorcerie or inchauntment, magike, incantations, or nigromancie, or that be ſuſpected of the ſame.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="24"/> Item, whether there bee anye in theſe partes, that haue maried within degrees of affinitie or conſan<g ref="char:EOLhyphen"/>guinitie, by the lawes of God forbidden, ſo ſet oute in a table for an Admonition. Any man that hath two wiues, or anie woman that hath two huſban<g ref="char:EOLhyphen"/>des. Anie that beinge diuorced or ſeperated aſide, hath maried againe. Anye maried that haue made precontractes. Any that haue made priuye or ſecrete contractes. Anye that haue maried without banes thriſe ſolemnelye aſked. Anye couples maried that
+<pb facs="tcp:174025:7" rendition="simple:additions"/>
+               <!-- PDF PAGE 31 -->
+liue not together, but ſlau<g ref="char:cmbAbbrStroke">̄</g>derouſlie liue a part: Any that haue maried out of the pariſhe churche, wher thei ought to haue the ſame ſolemniſed.</p>
+            <p>Item, whether any your Ordinaries within this <milestone type="tcpmilestone" unit="unspecified" n="24"/> dioces, theire Chauncellor, Officialls, Co<g ref="char:cmbAbbrStroke">̄</g>miſſaries, Regiſtrers, &amp; all &amp; ſinguler others that haue or doe exerciſe any viſitation or Iuriſdiction eccleſiaſticall w<hi rend="sup">t</hi>in any part of this dioces, haue vprightly, fayth<g ref="char:EOLhyphen"/>fully and vnfaynedly to y<hi rend="sup">e</hi> vttermoſte of their pow<g ref="char:EOLhyphen"/>ers obſerued in theyr owne perſons and towards all other, put in due execution the Queenes maieſtis eccleſiaſticall lawes, Statutes, Iniunctions, and al her highnes other Commandements publiſhed for vniformity of doctrine, and due order of the publik miniſtration of Gods holy word and ſacraments, and haue co<g ref="char:cmbAbbrStroke">̄</g>mended and fauored all ſuch as ſought the ſame, &amp; condignely puniſhed all ſuche as ſought the contrary.</p>
+            <p>Item, whether haue any of them at any time wit<g ref="char:EOLhyphen"/>tingly <milestone type="tcpmilestone" unit="unspecified" n="25"/> ſuffered faultes &amp; tranſgreſſions to remaine vnpuniſhed, for mony, gayne, pleaſure, frendſhippe or any other affectionate reſpecte, or yf any of them be or haue beene burdenſome to the Subiectes of theire ſeueral Iuriſdictions, by exacting or takinge exceſſiue fees, procurations, any rewardes or Com<g ref="char:EOLhyphen"/>modities by the way of promotion, gift, contributi<g ref="char:EOLhyphen"/>on, helpe, loane, redemption of pennance, omiſſion of quarter Sermons, obtaining of any benefice or office, or any other like wayes or meanes.</p>
+            <p>Generally, whether there be anie euell liuers or
+<pb facs="tcp:174025:8" rendition="simple:additions"/>
+               <!-- PDF PAGE 32 -->
+offenders of the lawes of almightie God: Anie ſuſ<g ref="char:EOLhyphen"/>pected of any notorious ſinne, fault or crime, to the offence of Chriſtian people committed: Anie that ſtubburnlie refuſe to co<g ref="char:cmbAbbrStroke">̄</g>forme them ſelfe to vnitie &amp; good religion: Anie that bruteth abroad rumors of the alteration of the ſame, or otherwiſe that di<g ref="char:EOLhyphen"/>ſturbeth good orders, and the quietneſſe of Chriſtes Churche and Chriſtian congregation.</p>
+            <trailer type="illustration">
+               <figure/>
+            </trailer>
+         </div>
+         <div type="colophon">
+            <p>Imprinted at London by Reginald Wolfe.</p>
+            <p>
+               <hi>Anno Domini.</hi> M.D.LXVII.</p>
+            <pb facs="tcp:174025:8"/>
+            <!-- PDF PAGE 32 -->
+         </div>
+      </body>
+   </text>
+</TEI>
